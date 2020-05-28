@@ -2,12 +2,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Cstlempty/MagicSquare/blob/master/LICENSE)
 
-*Quadrado Mágico (Magic Square) - Didactic game developed using Python Language Programming*
+*Magic Square - Didactic game developed using Python Language Programming*
 
-First of all, this is not really the source code, it's just the executable. If you want to see/get the source code contact me at External Links at the bottom of this document.
+First of all, this is not really the source code, it is just the executable. If you want to see/get the source code contact me at External Links at the bottom of this document.
 This project was developed during my graduation, it was my first GUI project, whole made with python native library tkinter for graphical user interfaces.
 
-Quadrado Mágico (Magic Square) has the intention for educational-level at math topics such as matrices.
+Magic Square has the intention for educational-level at math topics such as matrices.
 
 Feel free to use and distribute. Share with me also suggestions and changes you thought, if you want, I can send the source code for the interested.
 
