@@ -11,7 +11,14 @@ Magic Square has the intention for educational-level at math topics such as matr
 
 Feel free to use and distribute. Share with me also suggestions and changes you thought, if you want, I can send the source code for the interested.
 
-## Magic Square
+## Steps to use the app:
+
+- Download the MagicSquare.zip clicking on green "Clone/Download" button
+- Extract all files inside the MagicSquare.zip
+- Open the directory created and follow the arrows => MagicSquare-master => Magic Square => Magic Square(executable)
+- Have fun :)
+
+## Description
 
 Magic Square is a didactic game that you need to figure out which numbers you can use to fill the matrix in order to obtain the same sum at matrix's lines, columns, main diagonal and secondary diagonal.
 
